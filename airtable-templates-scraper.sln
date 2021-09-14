@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "airtable-templates-scraper", "airtable-templates-scraper.csproj", "{F04A6143-B9C6-4870-A5FA-DAC1027AFC7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F04A6143-B9C6-4870-A5FA-DAC1027AFC7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04A6143-B9C6-4870-A5FA-DAC1027AFC7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04A6143-B9C6-4870-A5FA-DAC1027AFC7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04A6143-B9C6-4870-A5FA-DAC1027AFC7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {925B8B39-52D0-4BE9-9462-A4E5ADC0E3AC}
+	EndGlobalSection
+EndGlobal
